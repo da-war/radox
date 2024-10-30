@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from "react-native";
 import React from "react";
 
-const NotFound = () => {
+const cart = () => {
   return (
     <View>
-      <Text>+not-found</Text>
+      <Text>cart</Text>
     </View>
   );
 };
 
-export default NotFound;
+export default cart;
 
 const styles = StyleSheet.create({});
